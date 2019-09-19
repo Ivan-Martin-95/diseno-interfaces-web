@@ -1,1 +1,5 @@
+//Capturas de sitios web públicos
+https://archive.org/web
 
+//Proporción áurea
+https://webdesign.tutsplus.com/es/articles/making-your-web-designs-more-effective-with-the-golden-ratio--cms-23459
