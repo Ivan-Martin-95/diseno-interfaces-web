@@ -9,3 +9,9 @@ Proto.io https://proto.io/
 Moqups https://moqups.com/
 Wireframe https://wireframe.cc/
 Draw.io https://www.draw.io/
+
+//Identificación de colores
+https://color.adobe.com/es/create
+
+//Identificación de fuentes
+https://fonts.google.com/
