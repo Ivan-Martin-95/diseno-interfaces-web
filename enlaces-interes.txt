@@ -15,3 +15,6 @@ https://color.adobe.com/es/create
 
 //Identificación de fuentes
 https://fonts.google.com/
+
+//Grid en Bootstrap
+https://getbootstrap.com/docs/4.1/layout/grid/
